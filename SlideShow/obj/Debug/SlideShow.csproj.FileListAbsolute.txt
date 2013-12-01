@@ -1,0 +1,5 @@
+D:\Работа\SlideShow\SlideShow\bin\SlideShow.dll
+D:\Работа\SlideShow\SlideShow\bin\SlideShow.pdb
+D:\Работа\SlideShow\SlideShow\obj\Debug\SlideShow.dll
+D:\Работа\SlideShow\SlideShow\obj\Debug\SlideShow.pdb
+D:\Работа\SlideShow\SlideShow\obj\Debug\SlideShow.csprojResolveAssemblyReference.cache
