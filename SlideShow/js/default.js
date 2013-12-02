@@ -20,7 +20,7 @@
         $("#content").show();
 
         $("#content").slideshow('refresh');
-    }, 200);
+    }, 1000);
 
 
 });
