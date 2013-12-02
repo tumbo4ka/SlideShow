@@ -30,7 +30,7 @@
                 if (!options.noNext)
                     ctrls += '<button class="btn-next" title="Вперед">&gt;</button>';
                 if (!options.noLegend)
-                    ctrls += '<span title="Текущий слайд"></button>';
+                    ctrls += '<span title="Текущий слайд"></span>';
                 controls.html(ctrls);
 
                 $this.data('slideshow', data = {
