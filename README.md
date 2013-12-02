@@ -18,21 +18,33 @@ init:
           { img: 'img/4.jpg', title: 'slide #4' }
       ]
   };  
+
   $("#content").slideshow('init', options);
 
+
 commands:
+
   $("#content").slideshow('refresh');
+
   $("#content").slideshow('next');
+
   $("#content").slideshow('first');
+
   $("#content").slideshow('autohide'); // for controls block
 
 
 controls:
   space - next
+
   home - first slide
+
   
 futures:
   no labels for slides
+
   stretching imgs
+
   auto sliding
+
   more and more :)
+
